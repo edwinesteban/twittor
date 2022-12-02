@@ -1,12 +1,13 @@
 {
 
-"short_name":"Twittor",
-"name":"Twittor de heroes",
-"start_url":"index.html",
-"backgroudn_color":"#3498db",
-"display":"standalone",
-"orientation":"portrait",
-"icons": [
+	"short_name":"Twittor",
+	"name":"Twittor de héroes",
+	"start_url":"index.html",
+	"background_color":"#3498db",
+	"display":"standalone",
+	"orientation":"portrait",
+
+	"icons": [
     {
         "src": "img/icons/icon-72x72.png",
         "type": "image/png",
@@ -48,6 +49,4 @@
         "sizes": "512x512"
     }
   ]
-
-
 }
